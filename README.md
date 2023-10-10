@@ -1,1 +1,1 @@
-# QA
+Hi, I am Hanna. After 11 year of career as client service manager in advertising and marketing I understood that I enjoy the most figuring out how things work and finding bugs. I completed bootcamps as front-end developer with SceCodes and QA manual bootkam with SkillUp.  I enjoy exploring deep into sites and applications, dissecting their behavior, and understanding the differences between expected and actual results. 
